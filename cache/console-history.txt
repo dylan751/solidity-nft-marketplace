@@ -1,0 +1,42 @@
+owner2
+const owner2 = await contract2.ownerOf(2)
+const owner1 = await contract2.ownerOf(2)
+owner1
+const owner1 = await contract2.ownerOf(1)
+balance5
+balance5r
+const balance5 = await contract2.balanceOf("0xA95F42B5954553146568d38698176A1B5DF0E61a")
+const balance4 = await contract2.balanceOf("0xA95F42B5954553146568d38698176A1B5DF0E61a")
+balance4
+const balance4 = await contract2.balanceOf("0x7fAed672EFCc1Ce033C5CD3f013f0420C61a032F")
+balance3
+const balance3 = await contract2.balanceOf("0x3c263523584E42BE54ceE25E0D762275a037eC3F")
+balance2
+const balance2 = contract2.balanceOf("0x3c263523584E42BE54ceE25E0D762275a037eC3F")
+const balance = contract2.balanceOf("0x3c263523584E42BE54ceE25E0D762275a037eC3F")
+const balance = contract2.balanceOf(""0x3c263523584E42BE54ceE25E0D762275a037eC3F")
+"
+const balance = contract2.balanceOf(""0x3c263523584E42BE54ceE25E0D762275a037eC3F)
+const balance = contract2.balanceOf()
+items
+const items = contract2.getAllNFTs()
+tokenIds3
+const tokenIds3 = contract2.tokenIds
+const tokenIds2 = contract2.tokenIds
+const tokenIds2 = contract2.tokenIds()
+const tokenIds = contract2.tokenIds()
+const tokenIds = contract.tokenIds
+contract2
+const contract2 = await ethers.getContractAt("NFTMarketplace", "0x7fAed672EFCc1Ce033C5CD3f013f0420C61a032F")
+const contract = await ethers.getContractAt("NFTMarketplace", "0x7fAed672EFCc1Ce033C5CD3f013f0420C61a032F")
+symbol
+symbold
+const symbol = await contract.symbol()
+name
+const name = await contract.name()
+## Hardhat console commands
+tokenIds
+const tokenIds = contract.tokenIds
+const contract = await ethers.getContractAt("NFTMarketplace", "0xA95F42B5954553146568d38698176A1B5DF0E61a")
+clear
+balanceOf
