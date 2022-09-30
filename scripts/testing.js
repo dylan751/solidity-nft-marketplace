@@ -1,5 +1,6 @@
 const Marketplace =  require("../src/Marketplace.json");
 async function getNFts () {
+// eslint-disable-next-line no-undef
 const MyContract = await ethers.getContractFactory("NFTMarketplace");
 const contract = await MyContract.attach(
   Marketplace.address
